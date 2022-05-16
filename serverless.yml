@@ -45,7 +45,6 @@ plugins:
   - serverless-offline-scheduler
   - serverless-iam-roles-per-function
   - serverless-local-schedule
-
 functions:
 
   ## Copy important tags from EC2 instances to their EBS Volumes - AWS Should pull their finger out of their a** and do this out of the box by now!...
